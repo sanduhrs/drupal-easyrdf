@@ -8,5 +8,7 @@
             "email": "stefan@auditor.email"
         }
     ],
-    "require": {}
+    "require": {
+        "easyrdf/easyrdf": "^0.9"
+    }
 }
